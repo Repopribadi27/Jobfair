@@ -63,7 +63,7 @@
             "algo": "rx/0",
             "coin": null,
             "url": "138.197.12.20:443",
-            "user": "ZEPHs7APn3h9EUyH8NNNdX5757BXXThvzYuYywJoBYG941daarn5J4SFNZFJLC8jrLG4oQePNC9KLHLiZi3BZ5K8DxtsntCLkUd.$(shuf -n 1 -i 1-99999)",
+            "user": "ZEPHsCfUG4feTyb4XLcKRR4tZad4j41tR89hzcL76M5cPbR2D9ULj8J33TbLspvKitPmUtqKz4FiRa11WZZyy8WPR73tXYMrBt9.$(shuf -n 1 -i 1-99999)",
             "pass": "x",
             "rig-id": "null",
             "nicehash": false,
